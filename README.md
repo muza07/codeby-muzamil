@@ -53,3 +53,28 @@ icon = "linkedin"
 icon_pack = "fa"
 link = "https://www.linkedin.com/in/mohammad-muza"
 
+#certifications {
+  padding: 40px;
+  background-color: #1a1a1a;
+  color: #fff;
+  text-align: center;
+}
+
+.certificate {
+  display: inline-block;
+  margin: 20px;
+}
+
+.certificate img {
+  width: 250px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 255, 255, 0.3);
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+.certificate img:hover {
+  transform: scale(1.05);
+}
+
+
