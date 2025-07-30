@@ -45,4 +45,11 @@ git commit -m "Update resume content"
 git push origin main
 
 ---
+social_links:
+  - linkedin: Mohammad Muza
+
+[[params.social]]
+icon = "linkedin"
+icon_pack = "fa"
+link = "https://www.linkedin.com/in/mohammad-muza"
 
